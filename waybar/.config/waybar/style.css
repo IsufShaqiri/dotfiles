@@ -36,6 +36,7 @@ window#waybar {
 #network,
 #cpu,
 #memory,
+#backlight,
 #volume {
   border-radius: 8px;
   padding: 5px 8px;

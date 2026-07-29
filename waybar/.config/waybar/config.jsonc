@@ -2,10 +2,15 @@
     "layer": "top",
     "modules-left": ["hyprland/workspaces", "group/media"],
     "modules-center": ["clock"],
-    "modules-right": ["hyprland/submap", "group/volume", "battery", "bluetooth", "network", "cpu", "memory"],
+    "modules-right": ["hyprland/submap", "group/volume", "battery", "bluetooth", "network", "backlight", "cpu", "memory"],
     "hyprland/window": {
         "max-length": 50
     },
+  "backlight": {
+    // "device": "acpi_video1",
+    "format": "{percent}% {icon}",
+    "format-icons": ["", "", "", "", "", "", "", "", ""],
+  },
     "battery": {
         "interval": 60,
         "format": "{capacity}% {icon}",
