@@ -11,3 +11,4 @@
 * Tmux
 * Waybar
 * Yazi
+* Zsh
