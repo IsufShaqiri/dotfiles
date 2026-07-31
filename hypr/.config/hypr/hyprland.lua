@@ -33,7 +33,7 @@ hl.monitor({
 -- Set programs that you use
 local terminal = "kitty"
 local browser = "brave"
-local fileManager = "dolphin"
+local fileManager = "nemo"
 local menu = "rofi -show drun"
 
 -------------------
