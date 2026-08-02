@@ -1,4 +1,4 @@
-# Freshly configs from Cachyos distro
+# The latest configs 
 
 ## Here I use the following applications
 
