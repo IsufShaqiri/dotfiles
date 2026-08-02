@@ -8,3 +8,16 @@ success_symbol = '[❯](bold green)'
 
 [line_break]
 disabled = true
+
+[git_status]
+conflicted = '×${count}'
+ahead = '⇡${count}'
+behind = '⇣${count}'
+diverged = '⇕⇡${ahead_count}⇣${behind_count}'
+up_to_date = '${count}'
+modified = '~${count}'
+deleted = '-${count}'
+renamed = '→${count}'
+stashed = '*${count}'
+staged = '+${count}'
+untracked = '?${count}'
