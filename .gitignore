@@ -1,2 +1,2 @@
-./zsh/.config/zsh/.zcompdump
+.zcompdump
 ./nvim/.config/*.json
